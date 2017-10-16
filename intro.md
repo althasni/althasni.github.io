@@ -18,7 +18,7 @@ Screen Printing
 Laser Cutting,Moulding and Casting
 
 Project
-Softwares Required
+# Softwares Required
 
 AutoCAD ( I used Rhinoceroes Corporate(64-bit ))
 
@@ -28,7 +28,7 @@ CutShop
 
 ShopBot 3
 
-Resources that can be used
+# Resources that can be used
 
 GrabCAD
 
@@ -44,7 +44,7 @@ Makerspace
 
 fabmodules
 
-Course Progress
+# Course Progress
 
 Here you can view my course progress. I have described the activities done, things learned each day.
 
