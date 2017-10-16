@@ -18,3 +18,44 @@ Screen Printing
 Laser Cutting,Moulding and Casting
 
 Project
+Softwares Required
+
+AutoCAD ( I used Rhinoceroes Corporate(64-bit ))
+
+Cura
+
+CutShop
+
+ShopBot 3
+
+Resources that can be used
+
+GrabCAD
+
+vimeo ( for sharing videos)
+
+Instructables
+
+Thingiverse
+
+Inkscape
+
+Makerspace
+
+fabmodules
+
+Course Progress
+
+Here you can view my course progress. I have described the activities done, things learned each day.
+
+Introduction to FABLAB
+
+Github Pages and Documentation
+
+Electronics Production and CNC
+
+Vinyl Cutting
+
+3D Printing
+
+Laser cutting
